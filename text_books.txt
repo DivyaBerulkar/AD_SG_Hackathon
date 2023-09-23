@@ -1,0 +1,50 @@
+*General Reference:*
+
+1. "The Chicago Manual of Style" by The University of Chicago Press
+   - A comprehensive guide to writing, editing, and publishing research papers and documents.
+
+*Science and Engineering:*
+
+2. "Physics for Scientists and Engineers" by Paul A. Tipler and Gene Mosca
+   - A widely used physics textbook covering classical mechanics, electromagnetism, thermodynamics, and more.
+
+3. "Calculus: Early Transcendentals" by James Stewart
+   - A popular calculus textbook that covers single-variable and multi-variable calculus.
+
+4. "Introduction to Algorithms" by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein
+   - A classic textbook for computer science and algorithms.
+
+5. "Fundamentals of Electric Circuits" by Charles K. Alexander and Matthew N.O. Sadiku
+   - A comprehensive book on electrical engineering and circuit analysis.
+
+*Social Sciences and Humanities:*
+
+6. "The Craft of Research" by Wayne C. Booth, Gregory G. Colomb, and Joseph M. Williams
+   - A guide to research methods, writing, and critical thinking for social science and humanities researchers.
+
+7. "The Elements of Style" by William Strunk Jr. and E.B. White
+   - A classic guide to English grammar and writing style.
+
+*Mathematics:*
+
+8. "Linear Algebra and Its Applications" by David C. Lay, Steven R. Lay, and Judi J. McDonald
+   - A widely used textbook for linear algebra.
+
+9. "Introduction to Probability" by Joseph K. Blitzstein and Jessica Hwang
+   - A comprehensive introduction to probability theory.
+
+*Medicine and Life Sciences:*
+
+10. "Principles of Neural Science" by Eric R. Kandel, James H. Schwartz, and Thomas M. Jessell
+    - A comprehensive neuroscience textbook.
+
+11. "Molecular Biology of the Cell" by Bruce Alberts, Alexander Johnson, Julian Lewis, Martin Raff, Keith Roberts, and Peter Walter
+    - A widely used textbook in cell biology and molecular biology.
+
+*Business and Economics:*
+
+12. "Principles of Economics" by N. Gregory Mankiw
+    - A popular introductory economics textbook.
+
+13. "The Lean Startup" by Eric Ries
+    - A guide for entrepreneurs and researchers on building successful startups.
